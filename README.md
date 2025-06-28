@@ -1,1 +1,2 @@
-![Snake animation](https://github.com/emisadler/emisadler/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/emisadler/emisadler/output/github-contribution-grid-snake.svg)
+
