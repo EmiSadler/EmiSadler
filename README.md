@@ -40,17 +40,6 @@ One of my favourite projects is **On The Trail**, a watchOS application I built 
 
 The idea is simple: your real-world walking distance moves you along a virtual journey between cities.
 
-I've built routes including:
-
-* London → Paris
-* Brussels → Luxembourg
-* Tallinn → Riga
-* Budapest → Zagreb
-* Vilnius → Warsaw
-* Lisbon → Madrid
-* Berlin → Amsterdam
-* Vienna → Rome
-
 This project has been a great excuse to learn more about the Apple ecosystem, including:
 
 * Swift & SwiftUI
@@ -68,7 +57,7 @@ It's also a good example of how I like to learn: **I had an idea for an app, and
 
 Game development has become one of my favourite ways to learn.
 
-I've built and experimented with games across **Python, JavaScript, React, Kotlin and Swift**, and I'm particularly interested in the intersection of programming, systems design and game mechanics.
+I've built and experimented with games across **Python, JavaScript, React, Kotlin and Swift**, and I'm particularly interested in the intersection of programming, systems design and game mechanics. I am currently learning the Godot eco-system as I have lofty aspirations of releasing a game on steam.
 
 Some of the projects and ideas I've worked on include:
 
